@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-<style>
+
 body {
 	background: pink;
 	font: 100% Georgia, Times, serif;
@@ -56,5 +56,3 @@ p {
 #mainHeader ul li a:hover {
 	color: #c00000;
 }
-
-</style>
